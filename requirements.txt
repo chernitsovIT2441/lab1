@@ -1,0 +1,10 @@
+numpy>=1.19.0
+pandas>=1.2.0
+scikit-learn>=0.24.0
+tensorflow>=2.6.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+requests>=2.25.0
+geopandas>=0.9.0  # опционально, для карт
+shapely>=1.7.0    # опционально, для геоданных
+jupyter>=1.0.0    # опционально, для notebooks
